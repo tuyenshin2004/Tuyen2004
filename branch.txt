@@ -1,0 +1,6 @@
+#  Tạo branch
+- ở trang chính bấm  <Branches: master> 
+- Gõ tên "Nhánh" -> Creat
+# Thay đổi trong branch
+- Commit : Khi thay đổi cần Ghi lại thông điệp thay đổi để ghi nhớ
+- Sau đó bấm <Commit> để thay đổi

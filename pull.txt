@@ -1,0 +1,8 @@
+# Lệnh kéo "pull"
+- Nó cho biết những thay đổi được thực hiện trong tệp và yêu cầu những người đóng góp khác xem nó và ra yêu cầu hợp nhất nó với nhánh chính master (Pull request)
+- Lệnh Pull so sánh các thay đổi được thực hiện trong tệp và nếu có bất kỳ xung đột nào, bạn có thể giải quyết thủ công.
+# Nhấp <Pull request>
+- Nhấp <new pull request>
+- Chọn <Branch> và nhấp vào "tên branch" để xem các thay đổi giữa hai tệp có trong kho lưu trữ của chúng ta.
+- Nhấp <creat pull request> sau khi đã kiểm tra và so sánh các thay đổi.
+- Nhập bất kỳ tiêu đề, mô tả cho các thay đổi của bạn và nhấp vào <Create pull request>
