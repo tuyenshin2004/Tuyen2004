@@ -1,0 +1,6 @@
+# Lệnh merge
+- Đây là lệnh cuối cùng để hợp nhất các thay đổi trên nhánh Branch vào nhánh chính Master sau khi một Pull request đã được khởi tạo và các cộng tác viên đã xem xét, chấp thuận nội dung.
+- Ở pull request -> conversation . Phần add more. Nếu thấy "This branch has no conflicts with the base branch"
+- Nhấp vào <Merge pull request> để hợp nhất các thay đổi vào nhánh chính <master> .
+- Nhấp vào <Confirm merge> để xác nhận hợp nhất, nếu hợp nhất thành công sẽ có thông báo.
+- Thành công, có thể <delete branch>
