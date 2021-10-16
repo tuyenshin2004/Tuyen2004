@@ -1,0 +1,13 @@
+ - Fork thao tác sao chép các kho lưu trữ "repository" từ tài khoản này đến tài khoản khác trên Github.
+ - Clone thì giúp chúng ta tải xuống kho lưu trữ về máy tính ở local.
+ 
+ # Nhân bản Clone
+ - để tái sử dụng code, giả sử bạn muốn sử dụng một số mã code có trong kho lưu trữ công cộng (tài khoản Github khác), bạn có thể sao chép trực tiếp nội dung bằng cách nhân bản hoặc tải xuống xuống máy tính của mình.
+ - Nhấp <code> để chọn tải xuống hoặc sao chép
+  
+ # rẽ nhánh kho lưu trữ Fork
+ - cần một số mã có trong kho lưu trữ công khai, để đẩy nó vào kho lưu trữ và tài khoản GitHub của bạn. Muốn làm điều này chúng ta cần rẽ nhánh "Fork" một kho lưu trữ sang tài khoản của mình
+ - Những thay đổi được thực hiện đối với kho lưu trữ ban đầu sẽ được phản ánh trở lại kho lưu trữ rẽ nhánh.
+ - Nếu bạn thực hiện thay đổi trong kho lưu trữ rẽ nhánh, nó sẽ không được phản ánh đến kho lưu trữ ban đầu cho đến khi và trừ khi bạn thực hiện yêu cầu kéo.
+ - Kho muốn rẽ nhánh, Nhấp <FORK> ở phía trên phải.
+ 
